@@ -29,8 +29,8 @@ Source Notepad/
 │   ├── Notepad.java        # Main application
 │   ├── About.java          # About dialog window
 │   ├── Icons/
-│   │   ├── Ganesha.jpg     # Application icon/image
-│   │   ├── desktop.ini     # Windows config file
+│   │   ├── Notepad.png     # Application icon/image
+│   │   ├── windows.png     # Windows config file
 ```
 
 ---
